@@ -1,0 +1,12 @@
+.wrapper{
+    width: 420px;
+    background-color: mediumpurple;
+    color: rgb(21, 22, 23);
+}
+.wrapper h1{
+    text-align: center;
+    color: white;
+
+    align-items: center;
+
+}
